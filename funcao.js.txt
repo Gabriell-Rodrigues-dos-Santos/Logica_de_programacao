@@ -1,0 +1,32 @@
+function verificarLogin(usuario, senha) {
+    if (usuario === "Gabriell" && senha === "123") {
+        console.log("Parabéns, Gabriell! Seu cadastro foi realizado.")
+    } else if (usuario === "Maria" && senha === "122") {
+        console.log("Parabéns, Maria! Seu cadastro foi realizado.")
+    } else if (usuario === "Japa" && senha === "122") {
+        console.log("Parabéns, Japa! Seu cadastro foi realizado.")
+    } else if (usuario === "Mary" && senha === "122") {
+        console.log("Parabéns, Mary! Seu cadastro foi realizado.")
+    } else if (usuario === "Felipe" && senha === "122") {
+        console.log("Parabéns, Felipe! Seu cadastro foi realizado.")
+    } else if (usuario === "Matheus" && senha === "122") {
+        console.log("Parabéns, Matheus! Seu cadastro foi realizado.")
+    } else if (usuario === "Marcos" && senha === "122") {
+        console.log("Parabéns, Marcos! Seu cadastro foi realizado.")
+    } else if (usuario === "Marcelo" && senha === "122") {
+        console.log("Parabéns, Marcelo! Seu cadastro foi realizado.")
+    } else if (usuario === "Diana" && senha === "122") {
+        console.log("Parabéns, Diana! Seu cadastro foi realizado.")
+    } else if (usuario === "Murilo" && senha === "122") {
+        console.log("Parabéns, Murilo! Seu cadastro foi realizado.")
+    } else if (usuario === "Tony" && senha === "122") {
+        console.log("Parabéns, Tony! Seu cadastro foi realizado.")
+    } else {
+        console.log("Não identificamos seu cadastro no sistema.")
+    }
+}
+
+let nomeDigitado = prompt("Digite seu usuário:")
+let senhaDigitada = prompt("Digite sua senha:")
+
+verificarLogin(nomeDigitado, senhaDigitada)
