@@ -1,0 +1,35 @@
+let tentativas = 0
+let usuario = "admin"
+let senha = "1234"
+
+while (tentativas < 3) {
+    senha++
+  usuario = prompt("Digite seu usuário:")
+  senha = prompt("Digite sua senha:")
+
+  if (usuario === "admin" && senha === "1234") {
+    break
+  } else {
+    console.log("Usuário ou senha incorretos")
+    let esqueceu = prompt("Esqueceu a senha? (sim/não):")
+    if (esqueceu === "sim") {
+      console.log("Sua senha é: " + '1234')
+    }
+    
+    tentativas++
+  }
+}
+
+if (tentativas === 3) {
+  console.log("Acesso bloqueado.")
+} else {
+  let confirmacao = "senha"
+  while (confirmacao !== senha) {
+    confirmacao = prompt("Confirme sua senha:")
+    if (confirmacao !== senha) {
+      console.log("As senhas não coincidem. Tente novamente.")
+    }
+  }
+
+  console.log("Você está logado!")
+}
