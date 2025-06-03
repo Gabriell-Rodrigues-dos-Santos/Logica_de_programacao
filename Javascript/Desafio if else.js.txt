@@ -1,0 +1,166 @@
+let respostaCorreta = 0
+let respostaIncorreta = 0
+
+//Pergunta1
+console.log ("Em qual ano estamos?")
+console.log ("A - 2050")
+console.log ("B - 2025")
+console.log ("C - 2030")
+console.log ("D - 2060")
+let pergunta1 = prompt("Digite a alternativa correta: ")
+if (pergunta1 == "B" || pergunta1 == "2025"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+
+
+//Pergunta2
+console.log ("Qual é o dia da semana??")
+console.log ("A - Segunda")
+console.log ("B - Terça")
+console.log ("C - Quarta")
+console.log ("D - Quinta")
+let Pergunta2 = prompt("Digite a alternativa correta: ")
+if (Pergunta2 == "B"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+
+//Pergunta3
+console.log ("Se hoje é segunda-feira e daqui a 100 dias será um domingo, que dia da semana foi ontem?")
+console.log ("A - Terça")
+console.log ("B - Sabado")
+console.log ("C - Quarta")
+console.log ("D - Domingo")
+let Pergunta3 = prompt("Digite a alternativa correta: ")
+if (Pergunta3 == "D"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+
+//Pergunta4
+console.log ("Se um trem leva 2 horas para percorrer 100 km, quanto tempo ele levaria para percorrer 250 km na mesma velocidade?")
+console.log ("A - 2 horas")
+console.log ("B - 10 horas")
+console.log ("C - 5 horas")
+console.log ("D - 3 horas")
+let Pergunta4 = prompt("Digite a alternativa correta: ")
+if (Pergunta4 == "C"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+
+//Pergunta5
+console.log ("Se eu dobro um número e somo 10, o resultado é 50. Qual era o número inicial?")
+console.log ("A - 20 ")
+console.log ("B - 10 ")
+console.log ("C - 5 ")
+console.log ("D - 3 ")
+let Pergunta5 = prompt("Digite a alternativa correta: ")
+if (Pergunta5 == "A"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+//Pergunta6
+console.log ("Qual fator climático é mais importante para a germinação das sementes?")
+console.log ("A -  Pressão atmosférica")
+console.log ("B -  Vento")
+console.log ("C - Radiação solar")
+console.log ("D - Umidade")
+let Pergunta6 = prompt("Digite a alternativa correta: ")
+if (Pergunta6 == "D"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+//Pergunta7
+console.log ("As culturas de milho e soja são mais sensíveis a?")
+console.log ("A -  Baixas temperaturas")
+console.log ("B -  Alta umidade do solo")
+console.log ("C - Déficit hídrico")
+console.log ("D - Excesso de nutrientes")
+let Pergunta7 = prompt("Digite a alternativa correta: ")
+if (Pergunta7 == "C"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+//Pergunta8
+console.log ("Qual frase está correta quanto ao uso da crase?")
+console.log ("A -  Vou à escola todos os dias.")
+console.log ("B -  Fui a feira comprar frutas.")
+console.log ("C - Entreguei a encomenda à ele.")
+console.log ("D - Não me refiro à aquele assunto.")
+let Pergunta8 = prompt("Digite a alternativa correta: ")
+if (Pergunta8 == "A"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+//Pergunta9
+console.log ("O que significa a palavra efêmero?")
+console.log ("A -  Duradouro")
+console.log ("B -  Passageiro")
+console.log ("C - Enorme")
+console.log ("D -Confuso")
+let Pergunta9 = prompt("Digite a alternativa correta: ")
+if (Pergunta9 == "B"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+//Pergunta10
+
+console.log ("Em que ano o Brasil declarou sua independência de Portugal?")
+console.log ("A - 1500")
+console.log ("B -  1822")
+console.log ("C - 1889")
+console.log ("D - 1945")
+let Pergunta10 = prompt("Digite a alternativa correta: ")
+if (Pergunta10 == "B"){
+    console.log ("Alternativa correta!")
+     respostaCorreta ++ 
+}
+else{
+    console.log("Alternativa errada! ")
+    respostaIncorreta ++
+}
+
+
+//Exibir resultado
+console.log("\n Resumo Final")
+console.log("Resposta Corretas: " + respostaCorreta)
+console.log ("Resposta Incorretas: " + respostaIncorreta)
+

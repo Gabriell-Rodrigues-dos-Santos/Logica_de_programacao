@@ -1,0 +1,39 @@
+let numero1 = Number(prompt ("Digite o primeiro numero: "))
+let numero2 = Number(prompt("Digite o segundo numero: "))
+let operacao = prompt ("Escolha a operação: ")
+
+function soma(numero1, numero2){
+    let resultado = numero1 + numero2
+    console.log("O resultado é:", resultado)
+}
+
+function subtracao(numero1, numero2){
+    let resultado2 = numero1 - numero2
+    console.log("O resultado é:", resultado2)
+    
+}
+function multiplicacao (numero1, numero2){
+    let resultado3 = numero1 * numero2
+    console.log("O resultado é:", resultado3)
+     
+}
+function divisao (numero1, numero2){
+    if (numero2 !== 0){
+    let resultado4 = numero1 / numero2
+    console.log("O resultado é:", resultado4)
+}else {
+    console.log ("Erro: divisão não permitida")
+}
+}
+ if (operacao === "soma"){
+soma(numero1,numero2)
+} else if (operacao === "multiplicação"){
+    multiplicacao(numero1,numero2)
+} else if (operacao === "subtração"){
+    subtracao(numero1,numero2)
+} else if (operacao === "divisão"){
+    divisao(numero1, numero2)
+} else { 
+    console.log("Operação inválida, tente novamente.")
+}
+

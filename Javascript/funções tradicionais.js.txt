@@ -1,0 +1,171 @@
+1. Crie uma função que exibe a mensagem "Olá, mundo!" no console.
+
+function OlaMundo() {
+  console.log("Olá, mundo!")
+}
+OlaMundo()
+
+2. Crie uma função chamada mostrarnome que exibe seu nome completo.
+
+function mostrarNome() {
+  console.log("Gabriell Rodrigues dos Santos")
+}
+
+mostrarNome()
+
+
+3. Crie uma função chamada mostrarIdade que exibe sua idade.
+
+]function mostrarIdade() {
+  console.log("17")
+}
+
+mostrarIdade()
+
+4. Crie uma função chamada somarDoisNumeros que soma dois números fixos.
+
+let numero1 = "30"
+let numero2 = "30"
+function somar(numero1,numero2) {
+    let resultado = (numero1 + numero2)
+  console.log("O resultado é", resultado)
+}
+ somar(30,30)
+
+5. Crie uma função chamada mostrarMensagem que exibe uma mensagem motivacional.
+
+function mostrarMensagem() {
+  console.log("Chora agora, ri depois")
+}
+
+mostrarMensagem()
+
+
+6. Crie uma função chamada mostrarData que exibe a data de hoje.
+
+function mostrarData() {
+  console.log("06/06/2024")
+}
+
+mostrarData()
+
+7. Crie uma função chamada mostrarCidade que exibe o nome de uma cidade.
+
+function mostrarCidade() {
+  console.log("Rio de Janeiro")
+}
+
+mostrarCidade()
+
+8. Crie uma função que receba um nome como parâmetro e exiba “Bem-vindo, [nome]!”
+
+let nome = prompt("Digite seu nome:")
+function mostrarNome() {
+  console.log("Bem vindo", nome)
+}
+
+mostrarNome()
+
+
+9. Crie uma função que receba dois números e exiba a subtração deles.
+
+let numero1 = 40
+let numero2 = 20
+function subtração(numero1, numero2) {
+  let resultado = numero1 - numero2
+  console.log("O resultado é ", resultado)
+}
+
+subtração(40,20)
+
+
+10. Crie uma função chamada mostrarAnimalFavorito que exibe um animal.
+
+function mostrarAnimalFavorito() {
+  console.log("LEÃO")
+}
+
+mostrarAnimalFavorito()
+
+11. Crie uma função que exibe "Estou aprendendo JavaScript!"
+
+function aprender() {
+  console.log("Estou aprendendo JavaScript!")
+}
+
+aprender()
+12. Crie uma função que recebe um número e exibe o triplo dele.
+
+let numero1 = Number(prompt(“Digite o primeiro numero: ”))
+function triplicar() {
+let resultado = (numero1 * 3)
+console.log( "O resultado é" , resultado)
+}
+triplicar()
+
+
+13. Crie uma função que recebe um nome e uma idade, e exibe "Nome: [nome], Idade: [idade]".
+
+let idade = "17"
+let nome = "Gabriell"
+  function idadenome() {
+  console.log("Seu nome é ", nome ,"e sua idade é", idade)
+}
+
+idadenome()
+
+14. Crie uma função que exibe os números de 1 a 10 no console.
+
+function aprender() {
+  console.log("1\n2\n3\n4\n5\n6\n7\n8\n9\n10")
+}
+
+aprender()
+
+15. Crie uma função que exibe “Aula de funções iniciada!”
+
+function aprender() {
+  console.log( "Aula de funções iniciada!")
+}
+
+aprender()
+
+16. Crie uma função que recebe um número e exibe “Você digitou o número [x]”.
+
+let numero = prompt("Digite seu numero:")
+function number() {
+  console.log( "Você digitou o número", numero)
+}
+
+number()
+
+17. Crie uma função que mostra o nome de um curso.
+
+function curso() {
+console.log (“Curso de Analise e Desenvolvimento de Sistemas”)
+}
+curso()
+
+18. Crie uma função que simula uma chamada com seu nome.
+
+function chamada() {
+console.log (“GABRIEEELL”)
+}
+chamada()
+
+19. Crie uma função que receba uma cor favorita e exiba: “Sua cor favorita é [cor]”.
+
+let cor = prompt(“Digite sua cor favorita:”)
+function cores() {
+console.log (“Sua cor favorita é”, cor)
+}
+cores()
+
+20. Crie uma função que receba um país e exiba: “Você mora no [país]”.
+
+let pais = prompt(“Qual pais você mora?”)
+function paises () {
+console.log (“Você mora em”, pais)
+}
+paises ()
+

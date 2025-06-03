@@ -1,0 +1,214 @@
+let respostaCorreta = 0
+let respostaIncorreta = 0
+
+//Pergunta1
+console.log (&quot;Em que ano estamos?&quot;)
+console.log (&quot;A - 2050&quot;)
+console.log (&quot;B - 2025&quot;)
+console.log (&quot;C - 2030&quot;)
+console.log (&quot;D - 2060\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;B&quot; || pergunta1 == 2025:
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+
+//Pergunta2
+console.log (&quot;Qual é o dia da semana?&quot;)
+console.log (&quot;A - Segunda&quot;)
+console.log (&quot;B - Terça&quot;)
+console.log (&quot;C - Quarta&quot;)
+console.log (&quot;D - Quinta\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;B&quot; || pergunta1 == &quot;Terça&quot;:
+console.log(&quot;Resposta Correta\n&quot;)
+
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+
+//Pergunta3
+console.log (&quot;Se hoje é segunda-feira e daqui a 100 dias será um domingo, que dia da semana
+foi ontem?&quot;)
+console.log (&quot;A - Terça&quot;)
+console.log (&quot;B - Sabado&quot;)
+console.log (&quot;C - Quarta&quot;)
+console.log (&quot;D - Domingo\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;D&quot; || pergunta1 == &quot;Domingo&quot;:
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+console.log (&quot;Respostas: &quot;)
+console.log (&quot;Respostas corretas: &quot; + respostaCorreta)
+console.log (&quot;Respostas: &quot; + respostaIncorreta)
+
+//Pergunta4
+console.log (&quot;Se um trem leva 2 horas para percorrer 100 km, quanto tempo ele levaria para
+percorrer 250 km na mesma velocidade?&quot;)
+console.log (&quot;A - 2 horas&quot;)
+console.log (&quot;B - 10 horas&quot;)
+console.log (&quot;C - 5 horas&quot;)
+console.log (&quot;D - 3 horas\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;C&quot; || pergunta1 == &quot;5 horas&quot;:
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+console.log (&quot;Respostas: &quot;)
+console.log (&quot;Respostas corretas: &quot; + respostaCorreta)
+console.log (&quot;Respostas: &quot; + respostaIncorreta)
+
+//Pergunta5
+console.log (&quot;Se eu dobro um número e somo 10, o resultado é 50. Qual era o número
+inicial?&quot;)
+console.log (&quot;A - 20 &quot;)
+console.log (&quot;B - 10 &quot;)
+console.log (&quot;C - 5 &quot;)
+console.log (&quot;D - 3 \n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;A&quot; || pergunta1 == &quot;20&quot;:
+
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+console.log (&quot;Respostas: &quot;)
+console.log (&quot;Respostas corretas: &quot; + respostaCorreta)
+console.log (&quot;Respostas Incorretas: &quot; + respostaIncorreta)
+
+//Pergunta6
+console.log (&quot;Qual fator climatico é mais importante para a geminação das sementes?&quot;)
+console.log (&quot;A - Pressão atmosférica &quot;)
+console.log (&quot;B - Vento &quot;)
+console.log (&quot;C -Radiação solar &quot;)
+console.log (&quot;D - Umidade\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;D&quot; || pergunta1 == &quot;Umidade&quot;:
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+console.log (&quot;Respostas: &quot;)
+
+console.log (&quot;Respostas corretas: &quot; + respostaCorreta)
+console.log (&quot;Respostas Incorretas: &quot; + respostaIncorreta)
+
+//Pergunta7
+console.log (&quot;As culturas de milho e soja são mais sensíveis a?&quot;)
+console.log (&quot;A - Baixas temperaturas &quot;)
+console.log (&quot;B - Alta umidade do solo&quot;)
+console.log (&quot;C - Déficit hídrico &quot;)
+console.log (&quot;D - Excesso de nutrientes\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;C&quot; || pergunta1 == &quot; Déficit hídrico&quot;:
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+console.log (&quot;Respostas: &quot;)
+console.log (&quot;Respostas corretas: &quot; + respostaCorreta)
+console.log (&quot;Respostas Incorretas: &quot; + respostaIncorreta)
+
+//Pergunta8
+console.log (&quot;Qual frase está correta quanto ao uso da crase?&quot;)
+console.log (&quot;A - Vou à escola todos os dias &quot;)
+console.log (&quot;B - Fui a feira comprar frutas&quot;)
+console.log (&quot;C - Entreguei a encomenda à ele &quot;)
+console.log (&quot;D - Não me refiro à aquele assunto\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+
+switch (true){
+case pergunta1 == &quot;A&quot; || pergunta1 == &quot; Vou à escola todos os dias&quot;:
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+console.log (&quot;Respostas: &quot;)
+console.log (&quot;Respostas corretas: &quot; + respostaCorreta)
+console.log (&quot;Respostas Incorretas: &quot; + respostaIncorreta)
+
+//Pergunta9
+console.log (&quot;O que significa a palavra efêmero?&quot;)
+console.log (&quot;A - Duradouro &quot;)
+console.log (&quot;B - Passageiro&quot;)
+console.log (&quot;C - Enorme&quot;)
+console.log (&quot;D - Confuso\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;A&quot; || pergunta1 == &quot; Vou à escola todos os dias&quot;:
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+
+console.log (&quot;Respostas: &quot;)
+console.log (&quot;Respostas corretas: &quot; + respostaCorreta)
+console.log (&quot;Respostas Incorretas: &quot; + respostaIncorreta)
+
+//Pergunta10
+console.log (&quot;Em que ano o Brasil declarou sua independência de Portugal?&quot;)
+console.log (&quot;A - 1500 &quot;)
+console.log (&quot;B - 1822&quot;)
+console.log (&quot;C - 1889&quot;)
+console.log (&quot;D - 1945\n&quot;)
+let pergunta1 = prompt (&quot;Digite a resposta correta: &quot;)
+switch (true){
+case pergunta1 == &quot;B&quot; || pergunta1 == &quot;1822&quot;:
+console.log(&quot;Resposta Correta\n&quot;)
+respostaCorreta ++
+break
+default:
+console.log(&quot;Resposta Incorreta\n&quot;)
+respostaIncorreta ++
+break
+}
+console.log (&quot;Respostas: &quot;)
+console.log (&quot;Respostas corretas: &quot; + respostaCorreta)
+console.log (&quot;Respostas Incorretas: &quot; + respostaIncorreta)

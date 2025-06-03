@@ -1,0 +1,47 @@
+1. O que é segurança da informação e por que ela é importante nos dias atuais?
+Segurança da informação é basicamente proteger os dados contra acessos indevidos, alterações e vazamentos. Nos dias de hoje, com quase tudo sendo digital,desde documentos de trabalho até dados pessoais, manter essas informações seguras é essencial para evitar prejuízos, fraudes e até crimes virtuais.
+
+2. Quais são os três pilares da segurança da informação e como cada um deles pode ser protegido?
+ Os três pilares são:
+Confidencialidade: garantir que só quem tem permissão consiga acessar a informação. Isso pode ser feito com senhas fortes, criptografia e controle de acesso.
+
+
+Integridade: manter os dados corretos e sem alterações não autorizadas. Usar backups e sistemas que detectam alterações pode ajudar.
+
+
+Disponibilidade: garantir que a informação esteja acessível quando for necessária. Manter os servidores funcionando bem e ter um plano de contingência são formas de garantir isso.
+
+
+3. Descreva o papel da norma ISO/IEC 27000 na família ISO 27000. Qual sua importância?
+ Essa norma serve como base para as outras da mesma família. Ela explica os conceitos principais e os termos usados. É importante porque ajuda a entender melhor as outras normas, como a 27001 e a 27002, e evita confusão sobre os termos.
+
+4. O que é o SGSI (Sistema de Gestão de Segurança da Informação) e qual norma trata diretamente dele?
+ O SGSI é um conjunto de processos e políticas para gerenciar a segurança da informação dentro de uma empresa. Ele garante que a segurança não seja feita de forma aleatória, mas sim planejada e controlada. A norma que trata diretamente disso é a ISO 27001.
+
+5. Por que uma organização pode querer ser certificada pela norma ISO/IEC 27001? Quais os benefícios?
+ Porque essa certificação mostra que a empresa leva a sério a segurança da informação. Os principais benefícios são mais confiança dos clientes, redução de riscos, melhoria na imagem da empresa e até vantagem competitiva em licitações ou parcerias.
+6. A ISO/IEC 27002 apresenta controles práticos para segurança da informação. Cite e explique três exemplos desses controles.
+Controle de acesso: garantir que só pessoas autorizadas entrem nos sistemas e nos arquivos certos.
+
+
+Gestão de incidentes: saber o que fazer quando algo dá errado, como um ataque hacker ou vazamento de dados.
+
+
+Segurança física: proteger o acesso físico aos computadores e servidores da empresa.
+
+
+7. Imagine que você trabalha em uma empresa e descobre uma falha de segurança. Segundo as normas ISO 27000, o que você faria?
+ Eu avisaria imediatamente o setor responsável pela segurança da informação ou meu superior direto. Eles precisam registrar o problema, investigar e tomar as medidas necessárias para corrigir a falha e evitar que aconteça de novo.
+8. Explique a diferença entre vulnerabilidade e ameaça na segurança da informação. Dê exemplos.
+Vulnerabilidade é uma falha ou ponto fraco. Exemplo: um sistema desatualizado.
+
+
+Ameaça é algo que pode explorar essa falha. Exemplo: um vírus ou um hacker que tenta invadir esse sistema desatualizado.
+
+
+9. Quais áreas de uma empresa devem estar envolvidas na aplicação das normas ISO/IEC 27001 e 27002? Por quê?
+ Todas as áreas! A segurança da informação não é só da equipe de TI. RH precisa treinar os funcionários, o jurídico ajuda com leis e regulamentos, a diretoria dá suporte e recursos. Todo mundo deve estar envolvido, porque qualquer pessoa pode causar um incidente, mesmo sem querer.
+
+10. Você acredita que essas normas também são importantes para pequenas empresas e escolas? Justifique sua resposta.
+ Com certeza! Mesmo as pequenas empresas e escolas lidam com dados sensíveis, como informações de clientes, alunos, professores, etc. Elas também podem ser alvo de ataques. Adotar essas normas ajuda a prevenir problemas, a organizar melhor os processos e a passar mais confiança para quem se relaciona com elas.
+
