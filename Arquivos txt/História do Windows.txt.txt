@@ -1,0 +1,93 @@
+                    História do Windows
+
+O Windows é um sistema operacional desenvolvido pela Microsoft. Desde seu lançamento inicial em 1985, o Windows evoluiu significativamente, introduzindo inovações que moldaram a maneira como interagimos com computadores. Este relatório explora a história do Windows, destacando versões-chave e suas contribuições com a tecnologia desde os primórdios até a que usamos nos dias atuais.
+
+Windows 1.0:
+
+Ano de lançamento: 1985
+Principais mudanças e características: Introduziu uma interface gráfica de usuário que permitia aos usuários interagir com o sistema por meio de janelas e ícones, em vez de comandos de texto.
+Requisitos mínimos do sistema: Era preciso um Processador 8086/8088, 256 KB de RAM, duas unidades de disquete ou disco rígido.
+Impacto no mercado e nos usuários: Recepção modesta; muitos usuários continuaram a preferir o MS-DOS(É a sigla para Microsoft Disk Operating System, ou seja, sistema operacional em disco da Microsoft)devido à familiaridade e desempenho.
+Curiosidade e fatos interessantes: O Windows 1.0 não permitia que as janelas se sobrepusessem; elas apenas se alinhavam lado a lado.
+Evolução da interface do usuário: Layout simples com janelas em mosaico e uso limitado de cores.
+
+Windows 3.1:
+
+Ano de lançamento: 1993
+Principais mudanças e características: Introduziu fontes TrueType, suporte a multimídia e melhor gerenciamento de memória.
+Requisitos mínimos do sistema: Processador  286, 1 MB de RAM, disco rígido.
+Impacto no mercado e nos usuários: Ampla adoção no mercado corporativo  doméstico, consolidando o Windows como uma plataforma líder.
+Curiosidade e fatos interessantes: Incluía o jogo Paciência, que ajudava os usuários a aprender a usar o mouse. 
+Evolução da interface do usuário: Interface mais refinada com icones coloridos e janelas sobrepostas.
+Windows 95:
+Ano de lançamento: 1995
+Principais mudanças e características: Introduziu o menu Iniciar, barra de tarefas e suporte a nomes de arquivos longos.
+Requisitos mínimos do sistema: Processador 386DX, 4 MB de RAM, 50-55 MB de espaço em disco.
+Impacto no mercado e nos usuários: Sucesso comercial massivo; vendeu 7 milhões de cópias nas primeiras cinco semanas.
+Curiosidade e fatos interessantes: A campanha de marketing incluiu a música ´´Start Me Up`` dos Rolling Stones.
+Evolução da interface do usuário: Interface mais intuitiva com o menu iniciar centralizando o acesso a programas.
+
+Windows 98:
+Ano de lançamento: 1998
+Principais mudanças e características: Melhor suporte a USB, introdução do Windows Driver Model e integração com a internet Explorer.
+Requisitos mínimos do sistema: Processador 486DX, 16 MB de RAM, 500 MB de espaço em disco
+Impacto no mercado e nos usuários: Popular entre usuários domésticos; aprimorou a estabilidade e o suporte a hardware.
+Curiosidade e fatos interessantes: Incluía o ´´Assistente de Configuração de redes Doméstica`` para facilitar a configuração de redes domésticas.
+Evolução da interface do usuário: Aprimoramentos visuais sutis e maior integração com a web.
+
+Windows XP:
+Ano de lançamento: 2001
+Principais mudanças e características: Nova interface ´´Luna``, melhor estabilidade e desempenho, e suporte aprimorado a redes sem fio.
+Requisitos mínimos do sistema: Processador Pentium 233 MHz, 64 MB de RAM e 1,5 GB de espaço em disco.
+Impacto no mercado e nos usuários: Extremamente popular, amplamente adotado em ambientes domésticos e corporativos.
+Curiosidade e fatos interessantes: O papel de parede padrão ´´Bliss`` é uma das imagens mais vistas do  mundo.
+Evolução da interface do usuário: Interface mais colorida e amigável, com ícones redesenhados.
+
+Windows Vista:
+Ano de lançamento: 2007
+Principais mudanças e características: Introduziu a interface ´´Aero``, Controle de Conta de Usuários e melhorias de segurança.
+Requisitos mínimos do sistema: Processador de 800 MHz, 512 MB de RAM, 15 MB de espaço de disco.
+Impacto no mercado e nos usuários: Recebeu críticas por requisitos de hardware elevados e problemas de compatibilidade.
+Curiosidade e fatos interessantes: Desenvolvimento prolongado, com cinco anos, entre o XP e o Vista.
+Evolução da interface do usuário: Efeitos visuais avançados, como transparência e animações.
+
+Windows 7:
+Ano de lançamento: 2009
+Principais mudanças e características: Melhor desempenho em comparação ao Vista, nova barra de tarefas com pré-visualização em miniatura, suporte aprimorado para multitouch e bibliotecas no Explorador de Arquivos. 
+Requisitos mínimos do sistema: Processador de 1 GHz, 1 GB de RAM, (32 bits) ou 2 GB de RAM (64 bits), 16 GB de espaço em disco.
+Impacto no mercado e nos usuários: Considerado um dos melhores sistemas operacionais da Microsoft, adotado amplamente por empresas e usuários domésticos.
+Curiosidade e fatos interessantes: Foi o sistema operacional mais vendido da história até o lançamento do Windows 10
+Evolução da interface do usuário: Interface mais refinada e simplificada, com uma barra de tarefas mais interativa e suporte aprimorado para temas e personalização. 
+
+Windows 8:
+Ano de lançamento: 2012
+Principais mudanças e características: Introduziu a interface Metro (mais tarde renomeada para Modern UI), otimizando a experiência para telas sensíveis ao toque. Removeu o botão iniciar, gerando críticas.
+Requisitos mínimos do sistema: Processador de 1 GHz, 1 GB de RAM, (32 bits) ou 2 GB de RAM (64 bits), 16 GB de espaço em disco.
+Impacto no mercado e nos usuários: Recebeu críticas devido à remoção do menu iniciar e à nova interface, mas trouxe melhorias de desempenho e segurança.
+Curiosidade e fatos interessantes: O Windows 8 foi projetado para competir com tablets e dispositivos móveis, mas a mudança radical na interface afastou muitos usuários tradicionais.
+Evolução da interface do usuário: Nova interface com blocos dinâmicos, mais adequada para telas sensíveis ao toque, mas pouco intuitiva para usuários de mouse e teclado.
+
+Windows 10:
+Ano de lançamento: 2015 
+Principais mudanças e características: Retorno do menu iniciar, integração com a assistente virtual Cortana, suporte para múltiplas áreas de trabalho e atualização contínuas via Windows Update.
+Requisitos mínimos do sistema: Processador de 1 GHz, 1 GB de RAM, (32 bits) ou 2 GB de RAM (64 bits), 16 GB de espaço em disco.
+Impacto no mercado e nos usuários: Sucesso massivo, sendo adotado rapidamente por empresas e usuários devido à combinação das melhores características do Windows 7 e 8
+Curiosidade e fatos interessantes: Foi a primeira versão do Windows a ser oferecida como atualização gratuita para usuários do Windows 7 e 8.1. 
+Evolução da interface do usuário: Mistura de elementos clássicos com a nova estética moderna, trazendo um design mais versátil e acessível.
+
+Windows 11:
+Ano de lançamento: 2021
+Principais mudanças e características: Novo design com bordas arredondadas, menu iniciar centralizado, integração com aplicativos Android e melhorias de desempenho.
+Requisitos mínimos do sistema: Processador de 1 GHz com dois núcleos, 4 GB de RAM, 64 GB de armazenamento, TPM 2.0. 
+Impacto no mercado e nos usuários: Recebido positivamente pelo design moderno, mas criticado pelos requisitos mínimos elevados, que tornaram muitos PCs incompatíveis.
+Curiosidade e fatos importantes: O Windows 11 marca uma nova era de integração entre PCs e dispositivos móveis, com suporte nativo para aplicativos Android.
+Evolução da interface do usuário: Interface mais fluida e moderna, com  ênfase na produtividade e integração com a nuvem.
+
+Ao longo dos anos, o Windows evoluiu para se adaptar às novas tecnologias e às necessidades dos usuários. Desde a interface simplista do Windows 1.0 até o design refinado do Windows 11, a Microsoft introduziu inovações que moldaram a experiência de computação pessoal e corporativa.
+Entre as inovações mais marcantes, destacam-se o menu iniciar, a estabilidade e longevidade do Windows XP, as melhorias gráficas do Windows 7, e a integração com novas tecnologias no Windows 10 e 11.
+Para o futuro, espera-se que o Windows continue a evoluir com maior foco na IA, na computação em nuvem e na conectividade entre dispositivos.
+
+Fontes:https://www.pocket-lint.com/apps/news/microsoft/99134-brief-history-of-microsoft-windows/
+https://www.git-tower.com/blog/history-of-microsoft-windows/
+https://www.youtube.com/watch?v=H0xotvWpY4Y
+https://www.youtube.com/watch?v=4oE6nEt3uRM
