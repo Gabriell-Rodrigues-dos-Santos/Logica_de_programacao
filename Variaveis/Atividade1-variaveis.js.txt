@@ -1,0 +1,52 @@
+
+
+let nome = ("Gabriell")
+            console.log(nome)
+
+
+
+let idade = 16
+console.log(idade)
+
+
+
+let aprendendoJavaScript = true
+console.log(aprendendoJavaScript)
+
+      
+let nome = ("Gabriell")
+let sobrenome = ("Rodrigues")
+let nomecompleto = nome + sobrenome
+console.log(nomecompleto)
+
+ 
+let numero1 = 10
+let numero2 = 5
+let soma = numero1 + numero2
+console.log(soma)
+
+
+
+let numero1 = 500
+let numero2 = 300
+console.log(numero1)
+console.log(numero2)
+console.log(numero1 * numero2)
+
+let cidade = "São Paulo"
+let habitantes = 12000000
+console.log("Cidade:", cidade)
+console.log("Habitantes:", habitantes)
+
+
+
+ let preco = 100 
+console.log("Preço inicial:", preco)
+preco = 150
+console.log("Preço atualizado:", preco)
+
+ let meuValor 
+console.log("meuValor:", meuValor)
+
+  let meuNulo = null 
+ console.log("meuNulo:", meuNulo)  

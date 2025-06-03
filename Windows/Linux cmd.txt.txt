@@ -1,0 +1,44 @@
+root@Linux:/home/gabriell# mkdir projetos
+root@Linux:/home/gabriell# ls
+Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos  pasta1  pasta2  projetos  snap
+root@Linux:/home/gabriell# cd projetos
+root@Linux:~/projetos# touch arquivo1.txt
+root@Linux:~/projetos# ls
+arquivo1.txt  arquivo2.txt  projeto1  projetos1
+root@Linux:~/projetos# touch arquivo2.txt
+root@Linux:~/projetos# ls
+arquivo2.txt  projeto1  projetos1
+root@Linux:~/projetos# cat arquivo2.txt
+root@Linux:~/projetos# mv arquivo2.txt documento.txt
+root@Linux:~/projetos# ls
+arquivo1.txt  documento.txt  projeto1  projetos1
+root@Linux:~/projetos# mkdir backup
+root@Linux:~/projetos# cp documento.txt backup/
+root@Linux:~/projetos# ls
+arquivo1.txt  backup  documento.txt  projeto1  projetos1
+root@Linux:~/projetos# ls
+arquivo1.txt  backup  documento.txt  projeto1  projetos1# touch arquivo1.txt
+arquivo1.txt  backup  documento.txt  projeto1  projetos1# ls
+arquivo1.txt  backup  documento.txt  projeto1  projetos1# rm -r documento.txt
+arquivo1.txt  backup  documento.txt  projeto1  projetos1# ls
+arquivo1.txt  backup  documento.txt  projeto1  projetos1# ls -l
+arquivo1.txt  backup  documento.txt  projeto1  projetos1# echo > relatorio.txt 11032025'
+arquivo1.txt  backup  documento.txt  projeto1  projetos1# ls
+arquivo1.txt  backup  documento.txt  projeto1  projetos1# 11032025
+echo teste >> relatorio.txt
+cat relatorio.txt
+11032025
+teste
+mkdir imagens
+ls
+cd imagens
+rm -r arquivo1.txt
+rm -r arquivo inicial
+rm -r file3.txt
+rm -r relatorio.txt
+rm -r texto.txt
+ls
+cd ..
+rm -r imagens
+ls
+echo > texto de exemplo
